@@ -9,6 +9,16 @@
       "gameApiId": 3498,
       "quantity": 6,
       "id": "1234"
+    },
+    {
+      "name": "Spyro the Dragon",
+      "condition": "semi-new",
+      "platform": "new",
+      "price": "16",
+      "background_image": "https://media.rawg.io/media/games/243/2434639122ce19d4811048cd11ab5ba0.jpg",
+      "gameApiId": 57797,
+      "seller": "Pablo",
+      "id": "s81S3Pk"
     }
   ]
 }
