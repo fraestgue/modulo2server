@@ -39,6 +39,136 @@
       "gameApiId": 5488,
       "seller": "juan",
       "id": "o-JBFbX"
+    },
+    {
+      "name": "Spyro the Dragon",
+      "condition": "semi-new",
+      "platform": "PlayStation",
+      "price": "12",
+      "background_image": "https://media.rawg.io/media/games/243/2434639122ce19d4811048cd11ab5ba0.jpg",
+      "gameApiId": 57797,
+      "seller": "David",
+      "id": "BPcLdaG"
+    },
+    {
+      "name": "Call of Duty: WWII",
+      "condition": "semi-new",
+      "platform": "Xbox One",
+      "price": "5",
+      "background_image": "https://media.rawg.io/media/games/1e5/1e5e33b88be978f451196a751424a72e.jpg",
+      "gameApiId": 21924,
+      "seller": "Sara",
+      "id": "ODvbeYj"
+    },
+    {
+      "name": "The Lord of the Rings: Gollum",
+      "condition": "new",
+      "platform": "PlayStation 5",
+      "price": "9",
+      "background_image": "https://media.rawg.io/media/games/470/470fb8435cdea25bda1126e0b8e0a3b0.jpg",
+      "gameApiId": 438620,
+      "seller": "Estefania",
+      "id": "pZpXDYC"
+    },
+    {
+      "name": "LEGO The Hobbit",
+      "condition": "semi-new",
+      "platform": "Nintendo 3DS",
+      "price": "9",
+      "background_image": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg",
+      "gameApiId": 3729,
+      "seller": "Lucía",
+      "id": "zoqI26I"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "condition": "new",
+      "platform": "Nintendo Switch",
+      "price": "23",
+      "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+      "gameApiId": 3328,
+      "seller": "Marta",
+      "id": "BYamiJQ"
+    },
+    {
+      "name": "PAYDAY 2",
+      "condition": "new",
+      "platform": "PC",
+      "price": "34",
+      "background_image": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg",
+      "gameApiId": 3939,
+      "seller": "Manuel",
+      "id": "Ruc4h55"
+    },
+    {
+      "name": "SONIC",
+      "condition": "new",
+      "platform": "PC",
+      "price": "27",
+      "background_image": "https://media.rawg.io/media/screenshots/f84/f84eff0df81802ee885018eb4395e352.jpg",
+      "gameApiId": 309525,
+      "seller": "Pablo",
+      "id": "HPsm7tW"
+    },
+    {
+      "name": "mario",
+      "condition": "new",
+      "platform": "PC",
+      "price": "39",
+      "background_image": "https://media.rawg.io/media/screenshots/1d7/1d75b9d60cb5884a0b19d21df8557c0c.jpg",
+      "gameApiId": 164830,
+      "seller": "Josep",
+      "id": "rLvDQkz"
+    },
+    {
+      "name": "Mario Tennis (2000)",
+      "condition": "semi-new",
+      "platform": "Nintendo 64",
+      "price": "10",
+      "background_image": "https://media.rawg.io/media/games/426/42694e52597024bb7f444dd966ce2878.jpg",
+      "gameApiId": 54439,
+      "seller": "Jorge",
+      "id": "PeCZPde"
+    },
+    {
+      "name": "Minecraft",
+      "condition": "semi-new",
+      "platform": "PC",
+      "price": "13",
+      "background_image": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg",
+      "gameApiId": 22509,
+      "seller": "Adri",
+      "id": "uNVqRqo"
+    },
+    {
+      "name": "Sonic Generations",
+      "condition": "new",
+      "platform": "PlayStation 4",
+      "price": "7",
+      "background_image": "https://media.rawg.io/media/games/9a1/9a18c226cf379272c698f26d2b79b3da.jpg",
+      "gameApiId": 4331,
+      "seller": "Fran",
+      "id": "31p6UaK"
+    },
+    {
+      "name": "Resident Evil (2002)",
+      "condition": "semi-new",
+      "platform": "Nintendo Switch",
+      "price": "15",
+      "background_image": "https://media.rawg.io/media/games/d24/d24ceb45b267f4b69b5d51c36c9a46db.jpg",
+      "gameApiId": 56183,
+      "seller": "Abraham",
+      "id": "F2xrn2x"
+    },
+    {
+      "name": "Party Animals",
+      "condition": "new",
+      "platform": "Xbox Series S/X",
+      "price": "14",
+      "background_image": "https://media.rawg.io/media/games/b66/b6601abafd9fa58ff7453808ca3581c2.jpg",
+      "gameApiId": 618663,
+      "seller": "Meri",
+      "id": "jSx2f5D"
     }
   ]
 }
