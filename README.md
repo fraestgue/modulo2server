@@ -1,4 +1,4 @@
-# Project Name
+# GAMEHYPE
 
 This repository is a [json-server](https://github.com/fraestgue/modulo2server) created to feed data into the React Application below.
 
